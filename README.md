@@ -26,8 +26,8 @@
 ![9](Images/9.png)
 ![10](Images/10.png)
 * Create a database with the data
-    * After the extraction and transformation, we saved the merged dataset as a CSV file in the resources folder. First, we created a database in pgAdmen interface. After that, we created a table based on the CSV file and its datatypes. In the end, we import/load the CSV file to pgAdmen and added it to the table’s we created. One thing that should be mentioned here is that we have already joined the files/datasets in Jupyter notebook before we exported the data. 
-    * The data can be utalized as a tool to look up infomation about all the hospitals around the USA.
+    * After the extraction and transformation, we saved the merged dataset as a CSV file in the resources folder. First, we created a database in pgAdmen interface. After that, we created a table based on the CSV file and its datatypes. In the end, we import/load the CSV file to pgAdmen and added it to the tableâ€™s we created. One thing that should be mentioned here is that we have already joined the files/datasets in Jupyter notebook before we exported the data. 
+    * The data can be utilized as a tool to look up infomation about all the hospitals around the USA.
 ### PGAdmin4 Picture
 ![11](Images/11.png) 
 
